@@ -24,14 +24,14 @@ Dự án này nhằm xây dựng mô hình Machine Learning để **dự đoán 
 - GridSearchCV để tối ưu siêu tham số
 
 ## 📈 Kết quả (SVC với `class_weight='balanced'`)
-precision    recall  f1-score   support
+    precision  recall   f1-score  support
 
-           0       0.92      0.70      0.80        87
-           1       0.78      0.95      0.86        97
+        0       0.92      0.70      0.80        87
+        1       0.78      0.95      0.86        97
 
-    accuracy                           0.83       184
-   macro avg       0.85      0.82      0.83       184
-weighted avg       0.85      0.83      0.83       184
+    accuracy                            0.83       184
+    macro avg       0.85      0.82      0.83       184
+    weighted avg    0.85      0.83      0.83       184
 
 
 ## ▶️ Hướng dẫn sử dụng
